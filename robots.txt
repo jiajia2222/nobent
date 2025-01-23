@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jiajia2222.github.io/nobent/sitemap.xml
