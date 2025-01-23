@@ -3,10 +3,30 @@
     <title>jiamou</title>
     <link href="https://jiajia2222.github.io/nobent/feed.xml" rel="self" />
     <link href="https://jiajia2222.github.io/nobent" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-01-23T16:00:15+08:00</updated>
     <author>
         <name>jiajia</name>
     </author>
     <id>https://jiajia2222.github.io/nobent</id>
 
+    <entry>
+        <title>welcome</title>
+        <author>
+            <name>jiajia</name>
+        </author>
+        <link href="https://jiajia2222.github.io/nobent/welcome.html"/>
+        <id>https://jiajia2222.github.io/nobent/welcome.html</id>
+
+        <updated>2025-01-23T16:00:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                    欢迎来到！
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>欢迎来到！</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
