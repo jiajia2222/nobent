@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>jiamou</title>
-    <link href="https://jiajia2222.github.io/nobent/feed.xml" rel="self" />
-    <link href="https://jiajia2222.github.io/nobent" />
+    <link href="https://hllo-jiajia.us.kg/feed.xml" rel="self" />
+    <link href="https://hllo-jiajia.us.kg" />
     <updated>2025-01-23T16:00:15+08:00</updated>
     <author>
         <name>jiajia</name>
     </author>
-    <id>https://jiajia2222.github.io/nobent</id>
+    <id>https://hllo-jiajia.us.kg</id>
 
     <entry>
         <title>welcome</title>
         <author>
             <name>jiajia</name>
         </author>
-        <link href="https://jiajia2222.github.io/nobent/welcome.html"/>
-        <id>https://jiajia2222.github.io/nobent/welcome.html</id>
+        <link href="https://hllo-jiajia.us.kg/welcome.html"/>
+        <id>https://hllo-jiajia.us.kg/welcome.html</id>
 
         <updated>2025-01-23T16:00:15+08:00</updated>
             <summary>

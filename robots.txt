@@ -2,4 +2,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://jiajia2222.github.io/nobent/sitemap.xml
+Sitemap: https://hllo-jiajia.us.kg/sitemap.xml

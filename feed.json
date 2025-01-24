@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "jiamou",
     "description": "",
-    "home_page_url": "https://jiajia2222.github.io/nobent",
-    "feed_url": "https://jiajia2222.github.io/nobent/feed.json",
+    "home_page_url": "https://hllo-jiajia.us.kg",
+    "feed_url": "https://hllo-jiajia.us.kg/feed.json",
     "user_comment": "",
-    "icon": "https://jiajia2222.github.io/nobent/media/website/IMG_3945-2.jpg",
+    "icon": "https://hllo-jiajia.us.kg/media/website/IMG_3945-2.jpg",
     "author": {
         "name": "jiajia"
     },
     "items": [
         {
-            "id": "https://jiajia2222.github.io/nobent/welcome.html",
-            "url": "https://jiajia2222.github.io/nobent/welcome.html",
+            "id": "https://hllo-jiajia.us.kg/welcome.html",
+            "url": "https://hllo-jiajia.us.kg/welcome.html",
             "title": "welcome",
             "summary": "欢迎来到！",
             "content_html": "<p>欢迎来到！</p>",
